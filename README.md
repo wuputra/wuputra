@@ -52,20 +52,18 @@ Reponsibilities :
 - ✅ [Computer Hardware Basics](https://www.credly.com/badges/80f4b052-01c6-40df-9ddd-f664d2f71484/public_url)
 
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wuputra&show_icons=true&theme=onedark&count_private=true" />
-</p>
+</p> -->
 
 <!-- Let's Connect -->
 ### 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuummyputra@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wuputraa) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wu.putra) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://linkedin.com/in/wuputraa) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/wu.putra)
 
 ---
-### 🎮​ Games
-
 <img src="https://raw.githubusercontent.com/wuputra/wuputra/output/snake.svg" alt="Snake animation" />
 
-<p>Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved</p>
+<p align="center">Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved</p>
