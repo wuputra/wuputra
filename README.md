@@ -73,8 +73,6 @@ Reponsibilities :
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wuputra/wuputra/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <img src="https://raw.githubusercontent.com/wuputra/wuputra/output/snake.svg" alt="Snake animation" />
 
 ###
