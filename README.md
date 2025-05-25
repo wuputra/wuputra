@@ -1,6 +1,6 @@
 ![wuputra](img/background1.jpg)
 <h1 align="center">👋 Hi, I'm Wahyu Ummy Putra</h1>
-<h3 align="center">🖧 Network Engineer | 🖥 IT Support | 🛡 Cybersecurity Enthusiast </h3>
+<h3 align="center">🖧 Network Engineer | IT Infrastructure | IT Support |Cybersecurity Enthusiast</h3>
 
 <!-- About Me -->
 ### 🧠 About Me
