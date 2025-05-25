@@ -80,8 +80,3 @@ Reponsibilities :
 
 ###
 ---
-<<<<<<< HEAD
-🛠️ *Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved*
-=======
-🛠️ *Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved*
->>>>>>> 8364703 (update profile readme)
