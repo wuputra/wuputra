@@ -8,10 +8,7 @@
 
 <!-- Work Experience -->
 ### 🧰 Work Experience
-<<<<<<< HEAD
 ### Network Engineer – RSUD Mohammad Natsir
-=======
-##### Network Engineer – RSUD Mohammad Natsir
 📍 Kota Solok, Sumatera Barat, Indonesia
 📅 April 2023 – Present
 
@@ -65,16 +62,7 @@ Reponsibilities :
 ---
 <h3 align="left">Play games with me</h3>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wuputra/wuputra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wuputra/wuputra/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wuputra/wuputra/output/pacman-contribution-graph.svg">
-</picture>
-
 <img src="https://raw.githubusercontent.com/wuputra/wuputra/output/snake.svg" alt="Snake animation" />
-
 ###
 ---
->>>>>>> 8364703 (update profile readme)
+<p>Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved</p>
