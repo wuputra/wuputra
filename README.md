@@ -12,7 +12,6 @@
 ### Network Engineer – RSUD Mohammad Natsir
 =======
 ##### Network Engineer – RSUD Mohammad Natsir
->>>>>>> 8364703 (update profile readme)
 📍 Kota Solok, Sumatera Barat, Indonesia
 📅 April 2023 – Present
 
@@ -80,3 +79,4 @@ Reponsibilities :
 
 ###
 ---
+>>>>>>> 8364703 (update profile readme)
