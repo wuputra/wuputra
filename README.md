@@ -60,9 +60,8 @@ Reponsibilities :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wuputraa) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wu.putra) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://linkedin.com/in/wuputraa) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/wu.putra)
 
 ---
-<h3 align="left">Play games with me</h3>
+### 🎮​ Games Snake
 
 <img src="https://raw.githubusercontent.com/wuputra/wuputra/output/snake.svg" alt="Snake animation" />
-###
 ---
 <p>Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved</p>
