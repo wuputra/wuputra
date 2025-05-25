@@ -8,7 +8,7 @@
 
 <!-- Work Experience -->
 ### 🧰 Work Experience
-##### Network Engineer – RSUD Mohammad Natsir
+### Network Engineer – RSUD Mohammad Natsir
 📍 Kota Solok, Sumatera Barat, Indonesia
 📅 April 2023 – Present
 
