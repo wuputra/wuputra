@@ -8,7 +8,11 @@
 
 <!-- Work Experience -->
 ### 🧰 Work Experience
+<<<<<<< HEAD
 ### Network Engineer – RSUD Mohammad Natsir
+=======
+##### Network Engineer – RSUD Mohammad Natsir
+>>>>>>> 8364703 (update profile readme)
 📍 Kota Solok, Sumatera Barat, Indonesia
 📅 April 2023 – Present
 
@@ -76,4 +80,8 @@ Reponsibilities :
 
 ###
 ---
+<<<<<<< HEAD
 🛠️ *Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved*
+=======
+🛠️ *Created By Wahyu Ummy Putra | Copyright ©2025 All rights reserved*
+>>>>>>> 8364703 (update profile readme)
