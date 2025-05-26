@@ -45,7 +45,6 @@
 🔐 `mikrotik-firewall-lab`: Stateful firewall for SOHO networks
 
 ### Certifications
-
 - 📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) 
 - 📄[Network Support and Security](https://www.credly.com/badges/30c3ec7a-ab42-42ac-8987-7a61a2ed7277)
 - 📄[Introduction to Cybersecurity](https://www.credly.com/badges/6c16bc44-5dd2-4739-a54c-d7e53991ae64/public_url)
@@ -58,7 +57,7 @@
 ### Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://wuputra.github.io/My-Portfolio/) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blogcartech.wordpress.com/)
 
-### Connect with me
+### ☕ Let's Connect  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuummyputra@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wuputraa) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wu.putra) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wuputra)
 
 ---
