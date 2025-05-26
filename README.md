@@ -45,6 +45,7 @@
 🔐 `mikrotik-firewall-lab`: Stateful firewall for SOHO networks
 
 ### Certifications
+![wuputra](img/computer-hardware-basics-badge.png)
 - 📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) 
 - 📄[Network Support and Security](https://www.credly.com/badges/30c3ec7a-ab42-42ac-8987-7a61a2ed7277)
 - 📄[Introduction to Cybersecurity](https://www.credly.com/badges/6c16bc44-5dd2-4739-a54c-d7e53991ae64/public_url)
