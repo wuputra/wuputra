@@ -1,4 +1,4 @@
-![wuputra](img/background2.jpg)
+<img src="img/banner.png" alt="GitHub Banner" style="width:100%; height:auto; border-radius:10px;" />
 <h3 align="center">
   <marquee>Hello, I'm Wahyu Ummy Putra | Network Engineer - Let's Build Better Networks! 🔧</marquee>
 </h3>
