@@ -45,15 +45,14 @@
 🔐 `mikrotik-firewall-lab`: Stateful firewall for SOHO networks
 
 ### Certifications
-<img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/>
-<!--- 📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) 
-- 📄[Network Support and Security](https://www.credly.com/badges/30c3ec7a-ab42-42ac-8987-7a61a2ed7277)
-- 📄[Introduction to Cybersecurity](https://www.credly.com/badges/6c16bc44-5dd2-4739-a54c-d7e53991ae64/public_url)
-- 📄[Networking Basics](https://www.credly.com/badges/af5be235-6ce2-444d-8521-97738e75fbc1)
-- 📄[Computer Hardware Basics](https://www.credly.com/badges/80f4b052-01c6-40df-9ddd-f664d2f71484/public_url)
-- 📄[CCNAv7: Enterprise Networking, Security and Automation](https://www.credly.com/badges/1602bbd1-9fe4-447c-9bd1-b461f1efae29)
-- 📄[CCNAv7: Switching, Routing and Wireless Essentials](https://www.credly.com/badges/1ce2c472-b8bb-4fd3-934e-b9d521580d64)
-- 📄[CCNAv7: Introduction to Networks](https://www.credly.com/badges/98c3d0ea-c36c-4081-8aa5-8194b8719108)-->
+📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) <br>
+📄[Network Support and Security](https://www.credly.com/badges/30c3ec7a-ab42-42ac-8987-7a61a2ed7277) <br>
+📄[Introduction to Cybersecurity](https://www.credly.com/badges/6c16bc44-5dd2-4739-a54c-d7e53991ae64/public_url) <br>
+📄[Networking Basics](https://www.credly.com/badges/af5be235-6ce2-444d-8521-97738e75fbc1) <br>
+📄[Computer Hardware Basics](https://www.credly.com/badges/80f4b052-01c6-40df-9ddd-f664d2f71484/public_url) <br>
+📄[CCNAv7: Enterprise Networking, Security and Automation](https://www.credly.com/badges/1602bbd1-9fe4-447c-9bd1-b461f1efae29) <br>
+📄[CCNAv7: Switching, Routing and Wireless Essentials](https://www.credly.com/badges/1ce2c472-b8bb-4fd3-934e-b9d521580d64) <br>
+📄[CCNAv7: Introduction to Networks](https://www.credly.com/badges/98c3d0ea-c36c-4081-8aa5-8194b8719108)
 
 ### Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://wuputra.github.io/My-Portfolio/) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blogcartech.wordpress.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wuputra)
