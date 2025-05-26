@@ -1,6 +1,6 @@
 <img src="img/banner.jpg" alt="GitHub Banner" style="width:100%; height:auto; border-radius:10px;" />
 <h3 align="center">
-  <marquee>Hello, I'm Wahyu Ummy Putra | Network Engineer - Let's Build Better Networks! 🔧</marquee>
+  <marquee>Hello everyone, I'm Wahyu Ummy Putra - Network Engineer and IT Support 🔧</marquee>
 </h3>
 <!--
 <h3 align="center">Network Engineer | IT Infrastructure | IT Support</h3>-->
