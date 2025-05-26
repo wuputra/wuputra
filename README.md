@@ -1,6 +1,6 @@
 ![wuputra](img/background1.jpg)
 <h3 align="center">
-  <marquee>Network Engineer | Cisco • MikroTik • Ruijie Cloud | Let's Build Better Networks! 🔧</marquee>
+  <marquee>Hello, I'm Wahyu Ummy Putra | Network Engineer - Let's Build Better Networks! 🔧</marquee>
 </h3>
 <!--
 <h3 align="center">Network Engineer | IT Infrastructure | IT Support</h3>-->
@@ -8,7 +8,7 @@
 ---
 
 ### About Me ![Profile Views](https://komarev.com/ghpvc/?username=wuputra&label=Profile%20views&color=0e75b6&style=flat)
-<p align="justify">I am <b>Wahyu Ummy Putra</b>, as a Network Engineer with more than 2 years of experience at RSUD Mohammad Natsir. My expertise in designing, managing, and optimizing network usage has played a vital role in supporting hospital healthcare services, thus significantly increasing operational efficiency. With a deep understanding of network systems, I am able to work in a team, communicate, and have good leadership.</p> 
+<p align="justify">I am <b>Wahyu Ummy Putra</b>, as a Network Engineer with more than 2 years of experience at RSUD Mohammad Natsir. My expertise in designing, managing, and optimizing network usage has played a vital role in supporting hospital healthcare services, thus significantly increasing operational efficiency. With a deep understanding of network systems, I am able to work in a team, communicate, and have good leadership.</p>
 
 ### With years of hands-on experience, I specialize in:
 - Designing and planning network layouts for both local and wide-area systems.
