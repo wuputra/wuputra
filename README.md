@@ -40,9 +40,9 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Projects
-🛠️ `enterprise-vlan-setup`: Cisco & MikroTik VLAN deployment  
-🧰 `ruijie-cloud-lab`: AP monitoring and configuration with Ruijie Cloud  
-🔐 `mikrotik-firewall-lab`: Stateful firewall for SOHO networks
+`enterprise-vlan-setup`: Cisco & MikroTik VLAN deployment  
+`ruijie-cloud-lab`: AP monitoring and configuration with Ruijie Cloud  
+`mikrotik-firewall-lab`: Stateful firewall for SOHO networks
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" /> Certifications
 📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) <br>
