@@ -1,6 +1,6 @@
 ![wuputra](img/background1.jpg)
 <h3 align="center">
-  <marquee>Network Engineer | Cisco • MikroTik • Ruijie Cloud | Let's Build Better Networks!</marquee>
+  <marquee>Network Engineer | Cisco • MikroTik • Ruijie Cloud | Let's Build Better Networks! 🔧</marquee>
 </h3>
 <!--
 <h3 align="center">Network Engineer | IT Infrastructure | IT Support</h3>-->
