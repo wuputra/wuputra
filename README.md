@@ -1,6 +1,4 @@
-
-<h3 align="center">👋 Hello! I'm Wahyu Ummy Putra</h3>
-
+![wuputra](img/background1.jpg)
 <h3 align="center">
   <marquee>Network Engineer | Cisco • MikroTik • Ruijie Cloud | Let's Build Better Networks!</marquee>
 </h3>
