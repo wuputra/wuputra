@@ -45,7 +45,7 @@
 🔐 `mikrotik-firewall-lab`: Stateful firewall for SOHO networks
 
 ### Certifications
-![wuputra](img/networking-basics-badge.png)   ![wuputra](img/networking-basics-badge.png)
+<img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/> <img src="img/networking-basics-badge.png" alt="wuputra" width="50"/>
 - 📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) 
 - 📄[Network Support and Security](https://www.credly.com/badges/30c3ec7a-ab42-42ac-8987-7a61a2ed7277)
 - 📄[Introduction to Cybersecurity](https://www.credly.com/badges/6c16bc44-5dd2-4739-a54c-d7e53991ae64/public_url)
