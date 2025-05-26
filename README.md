@@ -1,4 +1,4 @@
-<!--![wuputra](img/background1.jpg)-->
+![wuputra](img/background2.jpg)
 <h3 align="center">
   <marquee>Hello, I'm Wahyu Ummy Putra | Network Engineer - Let's Build Better Networks! 🔧</marquee>
 </h3>
