@@ -7,10 +7,10 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="25" height="25" /> About Me ![Profile Views](https://komarev.com/ghpvc/?username=wuputra&label=Profile%20views&color=0e75b6&style=flat)
+### <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="25" height="25" /> --> About Me ![Profile Views](https://komarev.com/ghpvc/?username=wuputra&label=Profile%20views&color=0e75b6&style=flat)
 <p align="justify">I am <b>Wahyu Ummy Putra</b>, as a Network Engineer with more than 2 years of experience at RSUD Mohammad Natsir. My expertise in designing, managing, and optimizing network usage has played a vital role in supporting hospital healthcare services, thus significantly increasing operational efficiency. With a deep understanding of network systems, I am able to work in a team, communicate, and have good leadership.</p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> With years of hands-on experience, I specialize in:
+### <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> --> With years of hands-on experience, I specialize in:
 - Designing and planning network layouts for both local and wide-area systems.
 - Installing network hardware and software.
 - Configuring routers, switches, firewalls, and other devices.
@@ -19,7 +19,7 @@
 - Implementing security policies to protect the network from unauthorized access and attacks.
 - Documenting changes and updates to network hardware and software.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Tech Stack
+### <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> --> Tech Stack
 <p>
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -39,12 +39,12 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Projects
+### <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> --> Projects
 `enterprise-vlan-setup`: Cisco & MikroTik VLAN deployment  
 `ruijie-cloud-lab`: AP monitoring and configuration with Ruijie Cloud  
 `mikrotik-firewall-lab`: Stateful firewall for SOHO networks
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" /> Certifications
+### <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" /> --> Certifications
 📄[RCNA Routing & Switching](https://elearning.ruijienetworks.com/study/seek-certificate) <br>
 📄[Network Support and Security](https://www.credly.com/badges/30c3ec7a-ab42-42ac-8987-7a61a2ed7277) <br>
 📄[Introduction to Cybersecurity](https://www.credly.com/badges/6c16bc44-5dd2-4739-a54c-d7e53991ae64/public_url) <br>
@@ -54,7 +54,7 @@
 📄[CCNAv7: Switching, Routing and Wireless Essentials](https://www.credly.com/badges/1ce2c472-b8bb-4fd3-934e-b9d521580d64) <br>
 📄[CCNAv7: Introduction to Networks](https://www.credly.com/badges/98c3d0ea-c36c-4081-8aa5-8194b8719108)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> Links
+### <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> --> Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://wuputra.github.io/My-Portfolio/) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blogcartech.wordpress.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wuputra)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Hot%20Beverage.webp" alt="Hot Beverage" width="25" height="25" /> Let's Connect  
