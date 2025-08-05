@@ -1,4 +1,4 @@
-<img src="img/banner.jpg" alt="GitHub Banner" style="width:100%; height:auto; border-radius:10px;" />
+<img src="img/banner2.jpg" alt="GitHub Banner" style="width:100%; height:auto; border-radius:10px;" />
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />Hello everyone, I'm Wahyu Ummy Putra - Network Engineer and IT Support 
 </h3>
